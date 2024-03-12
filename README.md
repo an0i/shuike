@@ -27,3 +27,5 @@
 #### l7
 
 [p1](l7/l7p1.c) [p2](l7/l7p2.c) [p3](l7/l7p3.c) [p4](l7/l7p4.c) [p5](l7/l7p5.c) [p6](l7/l7p6.c) [p7](l7/l7p6.c) [p8](l7/l7p6.c)
+
+[ex1](l7/ex/l7ex1.c) [ex2](l7/ex/l7ex2.c) [ex3](l7/ex/l7ex3.c) [ex4](l7/ex/l7ex4.c) [ex5](l7/ex/l7ex5.c) [ex6](l7/ex/l7ex6.c)
