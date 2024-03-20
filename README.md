@@ -26,6 +26,10 @@
 
 #### l7
 
-[p1](l7/l7p1.c) [p2](l7/l7p2.c) [p3](l7/l7p3.c) [p4](l7/l7p4.c) [p5](l7/l7p5.c) [p6](l7/l7p6.c) [p7](l7/l7p6.c) [p8](l7/l7p6.c)
+[p1](l7/l7p1.c) [p2](l7/l7p2.c) [p3](l7/l7p3.c) [p4](l7/l7p4.c) [p5](l7/l7p5.c) [p6](l7/l7p6.c) [p7](l7/l7p7.c) [p8](l7/l7p8.c)
 
 [ex1](l7/ex/l7ex1.c) [ex2](l7/ex/l7ex2.c) [ex3](l7/ex/l7ex3.c) [ex4](l7/ex/l7ex4.c) [ex5](l7/ex/l7ex5.c) [ex6](l7/ex/l7ex6.c)
+
+#### l8
+
+[p1](l8/l8p1.c) [p2](l8/l8p2.c) [p3](l8/l8p3.c) [p4](l8/l8p4.c) [p5](l8/l8p5.c) [p6](l8/l8p6.c) [p7](l8/l8p7.c) [p8](l8/l8p8.c)
